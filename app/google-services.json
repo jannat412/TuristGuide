@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "622281378145",
+    "firebase_url": "https://tour-1ca16.firebaseio.com",
+    "project_id": "tour-1ca16",
+    "storage_bucket": "tour-1ca16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622281378145:android:37c5584d9a44421e",
+        "android_client_info": {
+          "package_name": "com.packages.touristguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622281378145-scll1ccnhtprir8676bafr2dk0mhdg46.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.packages.touristguide",
+            "certificate_hash": "528c85f4283b699f1f736f2a6e47d529bceba4d9"
+          }
+        },
+        {
+          "client_id": "622281378145-u5frhutlm9vb4qr09018bi6f9h720k4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOpQIsq9PxAM_Bbb5k7DzsBY4EvTLpFPE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622281378145-u5frhutlm9vb4qr09018bi6f9h720k4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
